@@ -1,2 +1,2 @@
 <!--Image-->
-<img src ="https://octodex.github.com/images/daftpunktocat-guy.gif" width=500 height=500>
+<img src ="https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif" width=500 height=500>
