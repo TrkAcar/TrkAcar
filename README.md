@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarık</h1>
+<h1 align="center">Merhaba 👋, Ben Tarık</h1>
 <h3 align="center">Acemi Yazılımcı</h3>
 
 <p align="left">
