@@ -31,12 +31,7 @@
 
 </p>
 
-<center>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrkAcar&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</center>
-
-<center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&theme=rose_pine&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-</center>
+
