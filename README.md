@@ -89,12 +89,10 @@ class CyberSecuritySpecialist:
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=radical&hide_border=true&background=0D1117)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -102,26 +100,9 @@ class CyberSecuritySpecialist:
 
 ## 🚀 Projelerim
 
-### 🔐 Güvenlik Araçları & Scriptler
-- **[Proje Adı 1]** - Otomatik güvenlik açığı tarayıcı
-- **[Proje Adı 2]** - Brute force aracı
-- **[Proje Adı 3]** - Network analiz scripti
+<!-- Projelerinizi buraya ekleyebilirsiniz -->
 
-### 📝 Writeup'lar & Dökümanlar
-- CTF çözümlerim ve detaylı analizler
-- Güvenlik açığı raporları
-- Öğrenme notları ve kaynaklar
 
----
-
-## 📈 Aktivite
-
-```text
-🔥 Streak: XX gün
-⭐ Toplam Yıldız: XX
-🔀 Toplam PR: XX
-📝 Toplam Commit: XXX
-```
 
 ---
 
