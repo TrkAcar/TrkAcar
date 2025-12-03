@@ -90,9 +90,11 @@ class CyberSecuritySpecialist:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -112,8 +114,6 @@ class CyberSecuritySpecialist:
 - 🎯 Penetrasyon Testleri (Penetration Testing)
 - 🌐 Web Uygulama Güvenliği (Web Application Security)
 - 🔐 Kriptografi (Cryptography)
-- 🤖 Güvenlik Otomasyonu (Security Automation)
-- 📱 Mobil Uygulama Güvenliği (Mobile Security)
 
 ---
 
