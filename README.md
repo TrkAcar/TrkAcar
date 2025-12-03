@@ -1,13 +1,17 @@
-# 👋 Merhaba, Ben Tarık ACAR
-
 <div align="center">
-  
-  ### 🔐 Siber Güvenlik Uzman Yardımcısı
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trk-acar005/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrkAcar)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trkacar5@gmail.com)
-  
+
+# 💀 Tarık ACAR
+
+### 🛡️ Siber Güvenlik Uzman Yardımcısı | 🔓 Ethical Hacker | 🎯 Penetration Tester
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Siber+G%C3%BCvenlik+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1;Penetrasyon+Test+Uzman%C4%B1;Bug+Bounty+Hunter;CTF+Player" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trk-acar005/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrkAcar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trkacar5@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TrkAcar&color=brightgreen&style=for-the-badge)
+
 </div>
 
 ---
@@ -26,41 +30,77 @@ class CyberSecuritySpecialist:
     
     def say_hi(self):
         print("Güvenlik açıklarını bulmak için buradayım! 🔍")
+
+specialist = CyberSecuritySpecialist()
+specialist.say_hi()
 ```
 
 ---
 
-## 🛠️ Teknik Yetenekler
+## ⚡ Teknik Yetenekler
 
-### 🔒 Güvenlik Araçları
+<div align="center">
+
+### 🔥 Güvenlik Araçları & Teknolojiler
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
-### 💻 Programlama & Scripting
+### 👨‍💻 Programlama & Scripting
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🐧 İşletim Sistemleri
+### 🖥️ İşletim Sistemleri
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+</div>
+
 ---
 
-## 🎓 Öğrenme Yolculuğum
+## 📘 Öğrenme Yolculuğum
 
-### 📚 Aktif Çalıştığım Platformlar
-- 🐝 **bWAPP (bee-box)** - Web uygulama güvenlik açıkları
-- 🎯 **Metasploitable** - Penetrasyon testi laboratuvarı
-- 🏴‍☠️ **OverTheWire** - CTF ve wargames
-- 🔐 **TryHackMe / HackTheBox** - Pratik güvenlik senaryoları
+<div align="center">
 
-### 🔍 Odak Alanlarım
+### 🚧 Aktif Çalıştığım Platformlar
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+🐝
+<br><strong>bWAPP</strong>
+<br><sub>Web App Security</sub>
+</td>
+<td align="center" width="25%">
+🎯
+<br><strong>Metasploitable</strong>
+<br><sub>Penetration Testing</sub>
+</td>
+<td align="center" width="25%">
+🏴‍☠️
+<br><strong>OverTheWire</strong>
+<br><sub>CTF & Wargames</sub>
+</td>
+<td align="center" width="25%">
+🔐
+<br><strong>TryHackMe</strong>
+<br><sub>Security Labs</sub>
+</td>
+</tr>
+</table>
+
+### 🎯 Odak Alanlarım
+
 ```
 ├── 🌐 Web Application Security
 │   ├── SQL Injection
@@ -90,11 +130,10 @@ class CyberSecuritySpecialist:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=radical&hide_border=true&cache_seconds=7200" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=7200" alt="Top Languages" />
 
 </div>
 
@@ -102,52 +141,66 @@ class CyberSecuritySpecialist:
 
 ## 🚀 Projelerim
 
-<!-- Projelerinizi buraya ekleyebilirsiniz -->
+<div align="center">
 
+_🔨 Yakında eklenecek..._
 
+</div>
 
 ---
 
 ## 💡 İlgi Alanlarım
 
-- 🔍 Güvenlik Açığı Araştırması (Vulnerability Research)
-- 🎯 Penetrasyon Testleri (Penetration Testing)
-- 🌐 Web Uygulama Güvenliği (Web Application Security)
-- 🔐 Kriptografi (Cryptography)
-
----
-
-## 📫 Benimle İletişime Geçin
-
 <div align="center">
 
-**Güvenlik konularında işbirliği yapmak ister misiniz?**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/trk-acar005/)
-[![GitHub](https://img.shields.io/badge/GitHub-Takip_Et-181717?style=for-the-badge&logo=github)](https://github.com/TrkAcar)
-[![Email](https://img.shields.io/badge/Email-Mesaj_Gönder-D14836?style=for-the-badge&logo=gmail)](mailto:trkacar5@gmail.com)
+| � Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security |
+|:---:|:---:|:---:|
+| 🔐 Cryptography | 🛡️ Network Security | 💥 Exploit Development |
 
 </div>
 
 ---
+
+## 📬 Benimle İletişime Geçin
+
+<div align="center">
+
+### 💬 Güvenlik konularında işbirliği yapmak ister misiniz?
+
+<a href="https://www.linkedin.com/in/trk-acar005/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/TrkAcar">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:trkacar5@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ## ⚠️ Yasal Uyarı
 
-> Bu profildeki tüm güvenlik araştırmaları ve testler, yasal izinler dahilinde ve eğitim amaçlı olarak gerçekleştirilmiştir. Etik hackleme prensiplerine bağlı kalarak çalışıyorum.
+> 🔒 Bu profildeki tüm güvenlik araştırmaları ve testler, **yasal izinler dahilinde** ve **eğitim amaçlı** olarak gerçekleştirilmiştir.
+> 
+> ✅ Etik hackleme prensiplerine bağlı kalarak çalışıyorum.
 
 ---
 
-<div align="center">
-  
-  ### 💭 Favori Sözüm
-  
-  *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."* - Gene Spafford
-  
-  ---
-  
-  ![Visitor Count](https://profile-counter.glitch.me/TrkAcar/count.svg)
-  
-  **⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!**
+### 💭 Favori Sözüm
+
+*"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."*
+
+**- Gene Spafford**
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+**⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!**
 
 </div>
-```
