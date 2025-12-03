@@ -130,16 +130,11 @@ specialist.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/TrkAcar">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TrkAcar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/TrkAcar">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=TrkAcar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/TrkAcar)
 
-<a href="https://github.com/TrkAcar">
-  <img width="70%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/TrkAcar)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/TrkAcar)
 
 </div>
 
