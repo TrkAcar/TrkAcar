@@ -157,8 +157,6 @@ specialist.say_hi()
 
 ---
 
----
-
 ## 💡 İlgi Alanlarım
 
 <div align="center">
@@ -166,24 +164,6 @@ specialist.say_hi()
 | � Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security |
 |:---:|:---:|:---:|
 | 🔐 Cryptography | 🛡️ Network Security | 💥 Exploit Development |
-
-</div>
-
----
-
-## 📬 Benimle İletişime Geçin
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/trk-acar005/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/TrkAcar">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:trkacar5@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 
 </div>
 
@@ -207,8 +187,8 @@ specialist.say_hi()
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
 **⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
