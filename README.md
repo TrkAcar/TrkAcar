@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 Tako.Exe
+# Tako.Exe
 
 ### 🛡️ Siber Güvenlik Uzman Yardımcısı | 🔓 Ethical Hacker | 🎯 Penetration Tester
 
