@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💀 Tarık ACAR
+# 💀 Tako.Exe
 
 ### 🛡️ Siber Güvenlik Uzman Yardımcısı | 🔓 Ethical Hacker | 🎯 Penetration Tester
 
@@ -23,7 +23,7 @@ Siber güvenlik alanında uzmanlaşmakta olan bir güvenlik araştırmacısıyı
 ```python
 class CyberSecuritySpecialist:
     def __init__(self):
-        self.name = "Tarık ACAR"
+        self.name = "Tako.Exe"
         self.role = "Siber Güvenlik Uzman Yardımcısı"
         self.focus_areas = ["Penetration Testing", "Vulnerability Assessment", "Network Security"]
         self.currently_learning = ["Web Application Security", "Exploit Development", "Malware Analysis"]
@@ -130,11 +130,15 @@ specialist.say_hi()
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/TrkAcar)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrkAcar&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrkAcar&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrkAcar&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrkAcar&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrkAcar&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/TrkAcar)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/TrkAcar)
 
 </div>
 
