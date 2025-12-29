@@ -98,6 +98,11 @@ specialist.say_hi()
 <br><strong>TryHackMe</strong>
 <br><sub>Security Labs</sub>
 </td>
+<td align="center" width="25%">
+🧪
+<br><strong>PortSwigger Academy</strong>
+<br><sub>Web Security</sub>
+</td>
 </tr>
 </table>
 
@@ -105,24 +110,33 @@ specialist.say_hi()
 
 ```
 ├── 🌐 Web Application Security
-│   ├── SQL Injection
-│   ├── XSS (Cross-Site Scripting)
-│   ├── CSRF & Authentication Bypass
-│   └── OWASP Top 10
+│   ├── OWASP Top 10 (SQLi, XSS, CSRF)
+│   ├── Authentication & Session Management
+│   └── API Security Testing
 │
-├── 🔓 Network Security
+├── 🔓 Network & Infra Security
 │   ├── Port Scanning & Enumeration
-│   ├── Network Traffic Analysis
-│   └── Man-in-the-Middle Attacks
+│   ├── Active Directory Security Basics
+│   └── Docker & Container Security
 │
-├── 💥 Exploitation
+├── 💥 Exploitation & Post-Exploitation
 │   ├── Metasploit Framework
-│   ├── Brute Force Attacks
-│   └── Privilege Escalation
+│   ├── Privilege Escalation (Linux/Windows)
+│   └── Reverse Shell & Payloads
 │
-└── 🛡️ Defense
+├── 🏢 Enterprise Security
+│   ├── Active Directory Enumeration
+│   ├── BloodHound & Sharphound
+│   └── Post-Exploitation
+│
+├── 🐳 Infrastructure & Cloud
+│   ├── Docker Container Security
+│   ├── Cloud Infrastructure Basics
+│   └── Linux Hardening
+|
+└── 🛡️ Defensive Operations
     ├── Security Hardening
-    ├── Incident Response
+    ├── Log Analysis & SIEM Basics
     └── Security Best Practices
 ```
 
@@ -167,9 +181,10 @@ specialist.say_hi()
 
 <div align="center">
 
-| � Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security |
+| 🔍 Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security |
 |:---:|:---:|:---:|
 | 🔐 Cryptography | 🛡️ Network Security | 💥 Exploit Development |
+| 🐳 Container Security | 🚩 CTF Challenges |
 
 </div>
 
