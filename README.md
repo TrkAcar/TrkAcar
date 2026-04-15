@@ -162,18 +162,9 @@ specialist.say_hi()
 
 ## 🚀 Projelerim
 
-<div align="center">
 
-### ⚡ [VMI Scanner Tool](https://github.com/TrkAcar/vmi-scanner-tool)
-**Profesyonel Ağ Tarama ve Güvenlik Analiz Aracı**
+Yakında ...
 
-[![Python](https://img.shields.io/badge/Python-3.7+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/TrkAcar/vmi-scanner-tool?style=flat-square)](https://github.com/TrkAcar/vmi-scanner-tool/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/TrkAcar/vmi-scanner-tool/blob/main/LICENSE)
-
-🌐 Ağ Tarama • 🎯 Port Analizi • 🔍 Cihaz Tanıma • 📊 Detaylı Raporlama
-
-[📖 Daha Fazla](https://github.com/TrkAcar/vmi-scanner-tool) | [⭐ Star Ver](https://github.com/TrkAcar/vmi-scanner-tool/stargazers)
 
 ---
 
