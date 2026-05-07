@@ -71,74 +71,37 @@ specialist.say_hi()
 
 ## 📘 Öğrenme Yolculuğum
 
-### 🚧 Aktif Çalıştığım Platformlar
+### 🚧 Aktif Platformlarım
 
-<div align="center">
-
-| bWAPP | Metasploitable | OverTheWire | TryHackMe |
+| 🐝 bWAPP | 🎯 Metasploitable | 🏴‍☠️ OverTheWire | 🔐 TryHackMe |
 |:---:|:---:|:---:|:---:|
-| 🐝 Web App Security | 🎯 Penetration Testing | 🏴‍☠️ CTF & Wargames | 🔐 Security Labs |
+| Web App Security | Penetration Testing | CTF & Wargames | Security Labs |
 
-| PortSwigger Academy | Hack The Box | HackVISER | More Coming... |
-|:---:|:---:|:---:|:---:|
-| 🧪 Web Security | 💀 Full Pwn Labs | 🎮 Offensive Challenges | 🔜 Soon |
-
-</div>
+| 🧪 PortSwigger | 💀 Hack The Box | 🎮 HackVISER |
+|:---:|:---:|:---:|
+| Web Security | Full Pwn Labs | Offensive Challenges |
 
 ### 🎯 Odak Alanlarım
 
 ```
-├── 🌐 Web Application Security
-│   ├── OWASP Top 10 (SQLi, XSS, CSRF)
-│   ├── Authentication & Session Management
-│   └── API Security Testing
-│
-├── 🔓 Network & Infra Security
-│   ├── Port Scanning & Enumeration
-│   ├── Active Directory Security Basics
-│   └── Docker & Container Security
-│
-├── 💥 Exploitation & Post-Exploitation
-│   ├── Metasploit Framework
-│   ├── Privilege Escalation (Linux/Windows)
-│   └── Reverse Shell & Payloads
-│
-├── 🏢 Enterprise Security
-│   ├── Active Directory Enumeration
-│   ├── BloodHound & Sharphound
-│   └── Post-Exploitation
-│
-├── 🐳 Infrastructure & Cloud
-│   ├── Docker Container Security
-│   ├── Cloud Infrastructure Basics
-│   └── Linux Hardening
-|
-└── 🛡️ Defensive Operations
-    ├── Security Hardening
-    ├── Log Analysis & SIEM Basics
-    └── Security Best Practices
+🌐 Web Application Security
+   └── OWASP Top 10 • Authentication • API Security
+
+🔓 Network & Infra Security
+   └── Port Scanning • AD Security • Docker Security
+
+💥 Exploitation & Post-Exploitation
+   └── Metasploit • Privilege Escalation • Payloads
+
+🏢 Enterprise Security
+   └── AD Enumeration • BloodHound • Sharphound
+
+🐳 Infrastructure & Cloud
+   └── Container Security • Cloud Basics • Linux Hardening
+
+🛡️ Defensive Operations
+   └── Hardening • Log Analysis • SIEM Basics
 ```
-
----
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/api?username=TrkAcar&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" height="140"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrkAcar&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
 
 ---
 
@@ -148,25 +111,19 @@ specialist.say_hi()
 
 | 📂 Proje | 📝 Açıklama | 🔗 Bağlantı |
 |:---|:---|:---:|
-| 🔒 **Güvenlik Betikleri** | Penetrasyon testleri için topluluk betiklerim | [GitHub](https://github.com/TrkAcar?tab=repositories) |
-| 🌐 **Web Güvenliği** | OWASP egzersizleri ve lab çözümleri | [GitHub](https://github.com/TrkAcar?tab=repositories) |
+| Yakında | Yakında | Yakında |
 
 </div>
 
 *Yeni projeler yakında eklenecek...*
 
-
 ---
 
 ## 💡 İlgi Alanlarım
 
-<div align="center">
-
 | 🔍 Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security | 🔐 Cryptography |
 |:---:|:---:|:---:|:---:|
 | 🛡️ Network Security | 💥 Exploit Development | 🐳 Container Security | 🚩 CTF Challenges |
-
-</div>
 
 ---
 
