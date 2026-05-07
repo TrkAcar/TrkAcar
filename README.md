@@ -71,41 +71,19 @@ specialist.say_hi()
 
 ## 📘 Öğrenme Yolculuğum
 
-<div align="center">
-
 ### 🚧 Aktif Çalıştığım Platformlar
 
-</div>
+<div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
-🐝
-<br><strong>bWAPP</strong>
-<br><sub>Web App Security</sub>
-</td>
-<td align="center" width="20%">
-🎯
-<br><strong>Metasploitable</strong>
-<br><sub>Penetration Testing</sub>
-</td>
-<td align="center" width="20%">
-🏴‍☠️
-<br><strong>OverTheWire</strong>
-<br><sub>CTF & Wargames</sub>
-</td>
-<td align="center" width="20%">
-🔐
-<br><strong>TryHackMe</strong>
-<br><sub>Security Labs</sub>
-</td>
-<td align="center" width="20%">
-🧪
-<br><strong>PortSwigger Academy</strong>
-<br><sub>Web Security</sub>
-</td>
-</tr>
-</table>
+| bWAPP | Metasploitable | OverTheWire | TryHackMe |
+|:---:|:---:|:---:|:---:|
+| 🐝 Web App Security | 🎯 Penetration Testing | 🏴‍☠️ CTF & Wargames | 🔐 Security Labs |
+
+| PortSwigger Academy | Hack The Box | HackVISER | More Coming... |
+|:---:|:---:|:---:|:---:|
+| 🧪 Web Security | 💀 Full Pwn Labs | 🎮 Offensive Challenges | 🔜 Soon |
+
+</div>
 
 ### 🎯 Odak Alanlarım
 
@@ -145,23 +123,22 @@ specialist.say_hi()
 
 ## 📊 GitHub İstatistiklerim
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+</p>
 
-| 🌟 GitHub Stats | 📈 Contribution Graph | 🏆 Trophy |
-|:---:|:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=tokyonight) | ![](https://github-readme-activity-graph.vercel.app/graph?username=TrkAcar&theme=tokyonight) | ![](https://github-profile-trophy.vercel.app/api?username=TrkAcar&theme=tokyonight&no-frame=true&no-bg=true) |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/api?username=TrkAcar&theme=tokyonight&no-frame=true&no-bg=true" alt="Trophy" height="140"/>
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" height="160"/>
+</p>
 
-| 📚 Top Languages | ⏱️ Productive Time |
-|:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrkAcar&theme=tokyonight) |
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/TrkAcar)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TrkAcar&theme=tokyonight&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
 
 ---
 
