@@ -4,7 +4,7 @@
 
 ### 🛡️ Siber Güvenlik Uzman Yardımcısı | 🔓 Ethical Hacker | 🎯 Penetration Tester
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Siber+G%C3%BCvenlik+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1;Penetrasyon+Test+Uzman%C4%B1;Bug+Bounty+Hunter;CTF+Player" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=550&lines=Siber+G%C3%BCvenlik+Ara%C5%9Ft%C4%B1rmac%C4%B1s%C4%B1;Penetrasyon+Test+Uzman%C4%B1;Bug+Bounty+Hunter;CTF+Player" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trk-acar005/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TrkAcar)
@@ -48,8 +48,9 @@ specialist.say_hi()
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLMap](https://img.shields.io/badge/SQLMap-E34F26?style=flat-square&logo=sqlmap&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John-FF6600?style=flat-square&logo=johntheripper&logoColor=white)
 
 ### 👨‍💻 Programlama & Scripting
 
@@ -78,27 +79,27 @@ specialist.say_hi()
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 🐝
 <br><strong>bWAPP</strong>
 <br><sub>Web App Security</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 🎯
 <br><strong>Metasploitable</strong>
 <br><sub>Penetration Testing</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 🏴‍☠️
 <br><strong>OverTheWire</strong>
 <br><sub>CTF & Wargames</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 🔐
 <br><strong>TryHackMe</strong>
 <br><sub>Security Labs</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 🧪
 <br><strong>PortSwigger Academy</strong>
 <br><sub>Web Security</sub>
@@ -146,15 +147,19 @@ specialist.say_hi()
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TrkAcar&theme=tokyonight)
+| 🌟 GitHub Stats | 📈 Contribution Graph | 🏆 Trophy |
+|:---:|:---:|:---:|
+| ![](https://github-readme-stats.vercel.app/api?username=TrkAcar&show_icons=true&theme=tokyonight) | ![](https://github-readme-activity-graph.vercel.app/graph?username=TrkAcar&theme=tokyonight) | ![](https://github-profile-trophy.vercel.app/api?username=TrkAcar&theme=tokyonight&no-frame=true&no-bg=true) |
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrkAcar&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrkAcar&theme=tokyonight)
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TrkAcar&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrkAcar&theme=tokyonight)
+| 📚 Top Languages | ⏱️ Productive Time |
+|:---:|:---:|
+| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrkAcar&layout=compact&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TrkAcar&theme=tokyonight) |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/TrkAcar)
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrkAcar&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/TrkAcar)
 
 </div>
 
@@ -162,8 +167,16 @@ specialist.say_hi()
 
 ## 🚀 Projelerim
 
+<div align="center">
 
-Yakında ...
+| 📂 Proje | 📝 Açıklama | 🔗 Bağlantı |
+|:---|:---|:---:|
+| 🔒 **Güvenlik Betikleri** | Penetrasyon testleri için topluluk betiklerim | [GitHub](https://github.com/TrkAcar?tab=repositories) |
+| 🌐 **Web Güvenliği** | OWASP egzersizleri ve lab çözümleri | [GitHub](https://github.com/TrkAcar?tab=repositories) |
+
+</div>
+
+*Yeni projeler yakında eklenecek...*
 
 
 ---
@@ -172,16 +185,13 @@ Yakında ...
 
 <div align="center">
 
-| 🔍 Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security |
-|:---:|:---:|:---:|
-| 🔐 Cryptography | 🛡️ Network Security | 💥 Exploit Development |
-| 🐳 Container Security | 🚩 CTF Challenges |
+| 🔍 Vulnerability Research | 🎯 Penetration Testing | 🌐 Web App Security | 🔐 Cryptography |
+|:---:|:---:|:---:|:---:|
+| 🛡️ Network Security | 💥 Exploit Development | 🐳 Container Security | 🚩 CTF Challenges |
 
 </div>
 
 ---
-
-<div align="center">
 
 ## ⚠️ Yasal Uyarı
 
@@ -202,5 +212,3 @@ Yakında ...
 **⭐ Projelerimi beğendiyseniz yıldız vermeyi unutmayın!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-</div>
