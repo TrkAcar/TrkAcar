@@ -111,11 +111,11 @@ specialist.say_hi()
 
 | 📂 Proje | 📝 Açıklama | 🔗 Bağlantı |
 |:---|:---|:---:|
-| Yakında | Yakında | Yakında |
+| [Cybersecurity Lab Notes](https://github.com/TrkAcar/cybersecurity-lab-notes) | İzinli ve izole eğitim ortamlarında gerçekleştirilen siber güvenlik laboratuvar çalışmaları; DVWA, OWASP Juice Shop, WebGoat ve Metasploitable notları. | [Repoyu görüntüle](https://github.com/TrkAcar/cybersecurity-lab-notes) |
 
 </div>
 
-*Yeni projeler yakında eklenecek...*
+*Yeni projeler eklendikçe bu liste güncellenecek.*
 
 ---
 
